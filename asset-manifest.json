@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/velvyx-app/static/css/main.d4826fab.chunk.css",
-    "main.js": "/velvyx-app/static/js/main.e75636b1.chunk.js",
-    "main.js.map": "/velvyx-app/static/js/main.e75636b1.chunk.js.map",
-    "runtime-main.js": "/velvyx-app/static/js/runtime-main.db2a31e1.js",
-    "runtime-main.js.map": "/velvyx-app/static/js/runtime-main.db2a31e1.js.map",
-    "static/js/2.2e716bfd.chunk.js": "/velvyx-app/static/js/2.2e716bfd.chunk.js",
-    "static/js/2.2e716bfd.chunk.js.map": "/velvyx-app/static/js/2.2e716bfd.chunk.js.map",
-    "index.html": "/velvyx-app/index.html",
-    "static/css/main.d4826fab.chunk.css.map": "/velvyx-app/static/css/main.d4826fab.chunk.css.map",
-    "static/js/2.2e716bfd.chunk.js.LICENSE.txt": "/velvyx-app/static/js/2.2e716bfd.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.d4826fab.chunk.css",
+    "main.js": "/static/js/main.e75636b1.chunk.js",
+    "main.js.map": "/static/js/main.e75636b1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a4feba2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a4feba2.js.map",
+    "static/js/2.2e716bfd.chunk.js": "/static/js/2.2e716bfd.chunk.js",
+    "static/js/2.2e716bfd.chunk.js.map": "/static/js/2.2e716bfd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d4826fab.chunk.css.map": "/static/css/main.d4826fab.chunk.css.map",
+    "static/js/2.2e716bfd.chunk.js.LICENSE.txt": "/static/js/2.2e716bfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db2a31e1.js",
+    "static/js/runtime-main.2a4feba2.js",
     "static/js/2.2e716bfd.chunk.js",
     "static/css/main.d4826fab.chunk.css",
     "static/js/main.e75636b1.chunk.js"
